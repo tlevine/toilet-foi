@@ -1,1 +1,2 @@
-Here are planned FOI requests for toilet research.
+Here are some ideas on fee waivers.
+http://www.foiadvocates.com/fees.html

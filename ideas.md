@@ -13,15 +13,24 @@ At a minimum, please indicate
 
 for every building managed by the General Services Administration from January 1,
 2012 until the date it takes you to complete this request, now or sometime after
-February 13, 2013. 
-
-Where available, please provide the data electronically in a machine-readable
-format, such as a tab or pipe-delimited text file or a Microsoft Access data file.
-If none of these is available, please provide me with
+February 13, 2013. Where available, please provide the data electronically.
 
 I respectfully request a fee waiver under 5 U.S.C. § 552(a)(4)(A)(iii) for the following reasons.
 
-* [list reasons pursuant to that section]
+* I plan to use the documents for two studies to the public's benefit.
+  1. A study on human behavior involved the use and cleaning of bathrooms
+  2. A comparison of the actual cleaning practices to various sanitation standards
+
+* I have experience with this sort of research and thus am able to digest
+    the documents and disseminate my findings.
+  * Here is a recent human behavioral study of mine on the use of toilets.
+      http://thomaslevine.com/!/hovering-cycle
+  * I work frequently with data journalists. Here is some evidence of this.
+      XXX
+
+* I plan to make the documents available to the public on my website,
+    so many people will have access to the documents, particularly other
+    bathroom behavior researchers
 
 If a fee waiver is denied, please let me know in advance if the cost will be more than $25
 
