@@ -21,8 +21,8 @@ I respectfully request a fee waiver under 5 U.S.C. § 552(a)(4)(A)(iii) for the 
   1. A study on human behavior involved the use and cleaning of bathrooms
   2. A comparison of the actual cleaning practices to various sanitation standards
 
-* I have experience with this sort of research and thus am able to digest
-    the documents and disseminate my findings.
+* I have experience with behavioral and environmental health research. I thus am
+    able to digest the documents and disseminate my findings.
   * Here is a recent human behavioral study of mine on the use of toilets.
       http://thomaslevine.com/!/hovering-cycle
   * I work frequently with data journalists. Here is some evidence of this.
