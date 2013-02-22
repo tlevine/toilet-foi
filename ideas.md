@@ -22,17 +22,12 @@ I respectfully request a fee waiver under 5 U.S.C. § 552(a)(4)(A)(iii) for the 
   2. A comparison of the actual cleaning practices to various sanitation standards
 
 * I have experience with behavioral and environmental health research. I thus am
-    able to digest the documents and disseminate my findings.
-  * Here is a recent human behavioral study of mine on the use of toilets.
-      http://thomaslevine.com/!/hovering-cycle
-  * I work frequently with data journalists. Here is some evidence of this.
-      XXX
+    able to digest the documents and disseminate my findings. For example, here
+    is a recent human behavior study of mine on the use of toilets.
+    http://thomaslevine.com/!/hovering-cycle
 
 * I plan to make the documents available to the public on my website,
     so many people will have access to the documents, particularly other
     bathroom behavior researchers
 
 If a fee waiver is denied, please let me know in advance if the cost will be more than $25
-
-(GSA runs all the buildings)
-http://www.gsa.gov/portal/content/105305
