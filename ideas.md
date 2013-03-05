@@ -18,12 +18,13 @@ February 13, 2013. Where available, please provide the data electronically.
 I respectfully request a fee waiver under 5 U.S.C. § 552(a)(4)(A)(iii) for the following reasons.
 
 * I plan to use the documents for two studies to the public's benefit.
-  1. A study on human behavior involved the use and cleaning of bathrooms
-  2. A comparison of the actual cleaning practices to various sanitation standards
+  1. A study on human behavior concerning the use and cleaning of bathrooms
+  2. A comparison of the actual cleaning practices to established sanitation standards
 
 * I have experience with behavioral and environmental health research. I thus am
-    able to digest the documents and disseminate my findings. For example, here
-    is a recent human behavior study of mine on the use of toilets.
+    able to digest the documents and disseminate my findings. As evidence of this,
+    I currently work as a data scientist, I am starting a doctoral program in
+    environmental health in the fall, and I already study toilets.
     http://thomaslevine.com/!/hovering-cycle
 
 * I plan to make the documents available to the public on my website,
